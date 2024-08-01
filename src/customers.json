@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Customer 01",
+    "title": "Doctor",
+    "address": "Delhi",
+    "photos": []
+  },
+  {
+    "id": 2,
+    "name": "Customer 02",
+    "title": "Engineer",
+    "address": "Bengaluru",
+    "photos": []
+  },
+  {
+    "id": 3,
+    "name": "Customer 03",
+    "title": "Policeman",
+    "address": "Mumbai",
+    "photos": []
+  },
+  {
+    "id": 4,
+    "name": "Customer 04",
+    "title": "Doctor",
+    "address": "Delhi",
+    "photos": []
+  },
+  {
+    "id": 5,
+    "name": "Customer 05",
+    "title": "Engineer",
+    "address": "Bengaluru",
+    "photos": []
+  },
+  {
+    "id": 6,
+    "name": "Customer 06",
+    "title": "Policeman",
+    "address": "Mumbai",
+    "photos": []
+  },
+  {
+    "id": 7,
+    "name": "Customer 07",
+    "title": "Doctor",
+    "address": "Delhi",
+    "photos": []
+  },
+  {
+    "id": 8,
+    "name": "Customer 08",
+    "title": "Engineer",
+    "address": "Bengaluru",
+    "photos": []
+  },
+  {
+    "id": 9,
+    "name": "Customer 09",
+    "title": "Policeman",
+    "address": "Mumbai",
+    "photos": []
+  },
+  {
+    "id": 10,
+    "name": "Customer 10",
+    "title": "Doctor",
+    "address": "Delhi",
+    "photos": []
+  },
+  {
+    "id": 11,
+    "name": "Customer 11",
+    "title": "Engineer",
+    "address": "Bengaluru",
+    "photos": []
+  },
+  {
+    "id": 12,
+    "name": "Customer 12",
+    "title": "Policeman",
+    "address": "Mumbai",
+    "photos": []
+  }
+]
