@@ -5,8 +5,8 @@ All the necessary and must have points are kept in mind while creating this proj
  # Note : To load images I have used UNSPLASH API which allows only few free requests in one hour . So photos refreshing every 10 sec has been commented out but written in code base.
 
  # To start Application : 
-First fork the repository
-Enter into root folder
-Run command in terminal : "npm i"
-Finally run command: "npm start"
+First fork the repository ;
+Enter into root folder ;
+Run command in terminal : "npm i" ;
+Finally run command: "npm start" ;
  You can see the results on your browser.
