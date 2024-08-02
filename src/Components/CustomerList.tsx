@@ -1,6 +1,6 @@
 import React from "react";
 import CustomerCard from "./CustomerCard";
-import { Customer } from "./types";
+import { Customer } from "../types";
 
 interface CustomerListProps {
   customers: Customer[];

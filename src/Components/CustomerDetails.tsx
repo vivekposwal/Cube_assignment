@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import { Customer } from "./types";
+import { Customer } from "../types";
 
 interface CustomerDetailsProps {
   customer: Customer;
@@ -12,6 +12,11 @@ const CustomerDetails: React.FC<CustomerDetailsProps> = ({ customer }) => {
   useEffect(() => {
     const fetchPhotos = async () => {
       try {
+        console.log(
+          "Unsplash Access Key:",
+          process.env.REACT_APP_UNSPLASH_API_KEY
+        ); // Debugging statement
+
         const response = await axios.get(
           "https://api.unsplash.com/photos/random",
           {

@@ -1,5 +1,5 @@
 import React from "react";
-import { Customer } from "./types";
+import { Customer } from "../types";
 
 interface CustomerCardProps {
   customer: Customer;

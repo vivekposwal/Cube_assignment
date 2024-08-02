@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import CustomerList from "./CustomerList";
-import CustomerDetails from "./CustomerDetails";
+import CustomerList from "./Components/CustomerList";
+import CustomerDetails from "./Components/CustomerDetails";
 import customersData from "./customers.json";
 import { Customer } from "./types";
 import "./App.css";
